@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mean-blog-c0b7b",
+  "private_key_id": "",
+  "private_key": "-----BEGIN PRIVATE KEY-----\+PyD9v3pcJ\npfA/scuRJXRTHWUjFRh96KaAPBtQRMafrpkLFKU2Y1rPxdqHhib4oQVhiw3C8J8S\no5huufsnlfnY9Nxcn/KKmi7S84lm9+z3pGWBLqjXH1o7e6Bft9NC9ioB2zY7dGwQ\nLyOIjbieQaH2FEYavq6wNUdG7j2RcWY6HT3QLYM+fIKMm+MWbygzN9dU9IOrmf8+9er/a506BFYajyxB0CJarWGvWh6TSXS2+bML\njg2jqPf+90bHts6J1Dyca0FO9dnahLcWGqeA9JFu4QWsHe8dKyJQnpQyJ4rznT1l\nBaalkLeJAgMBAAECggEAFMQd2a0sJrdaqMv2quLyglKkT3oJaGbFtsval+z5+uqn\naqGDQQWIVRgWKupUYT0TQwzXmhP4MZY/3oSVH9/m80sagHN7+5HAirpi4vBYazCidnVS5MmDwx4a2v4dla6/iL\np6+OV3S4ruk2e4PP4IVjfUKcP3S+LLdqiW3GLSCGGOqXPGrrqN+AACKjf0p5WiPE\naZqAj1nc5BVEd2Iv4byY9yJ1Jlovw7M9pDg1CYZm9awh3IolZyCRHGFX6DMrVvoi\n47VXhxFwils8Gt1q7J8j0HOg2a4X/x3RTGjnk2sMYQKBgQDojtHHWaVaiEi6K8mW\nveAX6XpJCbwcNthJqPi41+75jolQyO0HjiEnYmI/gbGreDqkujme5YQKH9JAuG+z\ntFjKtt1RsDzN0WFWwR19bdko7+EK1hxBCj3sNt5YXZXiYtrAY\n5TVVPqze0wDpFKXKe4ryWXNuIDBLAyFftQ7qn25w6zE24RmrBD+v3NBZtVOt2HBL\nbU0EvxKChnDQ3XrwnBkiAsYyQnkzDPskXcg7Zr98jHrSVg7yKRM1wMdeXVkVX5YT\/gSCvBw8enVvORL+/vi\nnO+GD46dd2yf5ujfB3O+ZqJZzZyTXYUGldrZ81JBQ21yV3avzeLEjyiJsetC+JQW\nUqVVx+OeLEkvibFqGrNXBnuNpkaeFF/z7iQHG3BQ8CEUjSoXWPv96BGM4QKBgQCN\nSPXt+yv8xdva+/VMKiIWrZ4fu\nABAt5ucPkV9xSbST4JQAY2+Ggg8IOslk5sGAUrRrVjdhnafefbBjf/hWzQ/8Hx1m\nqzSOMJZjBXqVk+rMzRXt+Wg+mwKHtcS/CQmGHvd5sQKBgQDhbx5BLLcslUIt37FA\nnKV+UfW+hFkt5LxVghwTYGPIRKmjRIgt+gYjGL3gQUR70EfHeQm/TwYUGIG0tRJD\nTvq31HRZ7De4QZjujbbud25PinNZVm364OjBqn0Mb7E72+FY3G6wVsnGnWh1f+yE\nRKnUW/gc2igZugHI8nRxPc3FeA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@mean-blog-c0b7b.iam.gserviceaccount.com",
+  "client_id": "xxxxx",
+  "auth_uri": "https://.google.com/o/oauth2/auth",
+  "token_uri": "https://.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40mean-blog-c0b7b.iam.gserviceaccount.com",
+  "universe_domain": ".com"
+}
